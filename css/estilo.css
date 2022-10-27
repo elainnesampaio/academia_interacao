@@ -185,3 +185,11 @@ footer{
     margin:  55px 0;
     font-weight: bold;
 }
+
+.galeria{
+   text-align: center;
+    margin: 10px;
+}
+.galeria img{
+    padding: 20px;
+}
